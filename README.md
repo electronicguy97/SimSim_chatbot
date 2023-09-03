@@ -19,6 +19,9 @@ SentenceBERT [jhgan/ko-sroberta-multitask](https://huggingface.co/jhgan/ko-srobe
 - sentence-transformers
 - scikit-learn
 
+## 실행 방법
+* streamlit run d:[저장위치]/chatbot.py
+
 ## 경고문
 성능향상을 위한 allow_output_mutationcache를 사용하기 위해 steamlit의 cache를 사용
 @st.cache_data(ttl=300)  # 캐시 유지 시간을 설정할 수 있음 (초 단위) 또는
