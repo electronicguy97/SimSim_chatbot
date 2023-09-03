@@ -9,7 +9,7 @@ SentenceBERT [jhgan/ko-sroberta-multitask](https://huggingface.co/jhgan/ko-srobe
 
 ## Dataset
 
-[웰니스 대화 스크립트 데이터셋](https://aihub.or.kr/opendata/keti-data/recognition-laguage/KETI-02-006)
+[대화 스크립트 데이터셋](https://aihub.or.kr/opendata/keti-data/recognition-laguage/KETI-02-006)
 
 ## Dependency
 
