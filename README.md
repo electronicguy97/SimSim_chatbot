@@ -1,5 +1,3 @@
-# 심심 챗봇
-
 ![구현화면](https://github.com/electronicguy97/SimSim_chatbot/assets/103613730/e5c18ae0-6495-453e-9a7b-9d9689462ca2)
 
 
