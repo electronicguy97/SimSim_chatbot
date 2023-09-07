@@ -1,7 +1,7 @@
 ![구현화면](https://github.com/electronicguy97/SimSim_chatbot/assets/103613730/e5c18ae0-6495-453e-9a7b-9d9689462ca2)
 
 
-## 사용된 학습 모델
+## 사용된 번역학습 모델
 
 SentenceBERT [jhgan/ko-sroberta-multitask](https://huggingface.co/jhgan/ko-sroberta-multitask)
 
